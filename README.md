@@ -1,18 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOM%20&fontSize=90)
+
+## 간단소개
+정보보안학과 지망하고 있는 고3 학생입니다. 저랑 같이 보안 공부나 코딩 공부 하실분 연락주세요!. 백준이랑 DREAMHACK 풀고있어요!
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+## 가장 많이 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul0908&layout=compact)](https://github.com/soul0908/github-readme-stats)
+## 백준 등급
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k7580778)](https://solved.ac/k7580778/)
 
-<!--
-**soul0908/soul0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
