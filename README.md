@@ -1,8 +1,10 @@
 
 ## 간단소개
-가천대학교 스마트보안전공 23학번 이재현입니다.
+Gachon Smart Security (2023)
+Cyber Physical Security Lab (2023)
+1st batch of WhiteHat School
+2nd batch of KnockOn BootCamp
 <tr>
-보안공부를 열심히 할려고 하고는 있으나 너무 힘드네요...ㅠ
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
