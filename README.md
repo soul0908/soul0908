@@ -12,7 +12,7 @@
 
 ## 🔒 Security Research & Activities
 
-- 🎓 **Gachon University - Smart Security Major** (2019~)
+- 🎓 **Gachon University - Smart Security Major** (2023~)
 - 🧪 **Cyber Physical Security Lab (2023)**  
 - 🕵️‍♂️ **1st Batch of WhiteHat School (2023)**  
 - ⚙️ **Security Projects**  
