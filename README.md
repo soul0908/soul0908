@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soul0908&layout=compact)](https://github.com/soul0908/github-readme-stats)
 
 ## 🔧 Dreamhack Stats
-[![Dreamhack](https://dreamhack-readme-stats.vercel.app/api?name=영혼)](https://dreamhack.io)
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=영혼)
 
 
 ---
